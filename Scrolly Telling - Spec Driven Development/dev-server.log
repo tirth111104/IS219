@@ -1,0 +1,11 @@
+
+> student-reality-lab-patel@0.1.0 dev
+> node server.mjs
+
+Dev server running on http://localhost:5173/IS219/
+[2m10:28:36 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Chatbot.tsx[22m
+[2m10:28:50 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m10:34:45 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m10:34:45 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m10:34:46 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m10:34:46 PM[22m [36m[1m[vite][22m[39m server restarted.
