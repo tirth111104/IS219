@@ -1,34 +1,34 @@
 export const JOB_DESCRIPTIONS = [
   {
-    company: "Automattic",
+    company: "Anthropic",
     title: "Applied AI Engineer",
     dateFound: "May 7, 2026",
-    source: "https://job-boards.greenhouse.io/automatticcareers/jobs/7558576",
+    source: "https://job-boards.greenhouse.io/anthropic/jobs/5055488008",
     description:
-      "Ship user-facing AI features across a large product ecosystem. Build and iterate rapidly on AI-powered products, collaborate with product managers, designers, and engineers, move prototypes toward production, use production LLM APIs, and work across PHP, TypeScript, React, full-stack development, AI-powered user interfaces, and machine learning fundamentals."
+      "Technical product engineering role on Anthropic's Applied AI team. Work with customer product and engineering teams to ship products powered by Claude, advise on architecture, develop pilots, prototypes, and evaluation suites, guide LLM implementation patterns, support API integrations, agent development, retrieval frameworks, prompt engineering, evaluation frameworks, Python production applications, and deployment at scale."
   },
   {
-    company: "Vertex Service Partners",
-    title: "Full Stack AI Engineer",
-    dateFound: "May 7, 2026",
-    source: "https://job-boards.greenhouse.io/vertexservicepartners/jobs/4067788009",
-    description:
-      "Design, prototype, and deploy full-stack AI applications using FastAPI, Django, React, and Next.js. Develop chat assistants, retrieval workflows, summarization, workflow automation, OpenAI integrations, LangChain, data systems, APIs, cloud deployments, CI/CD, retrieval-augmented generation, prompt management, vector storage, and model orchestration."
-  },
-  {
-    company: "Langfuse",
-    title: "Senior Product Engineer",
-    dateFound: "May 7, 2026",
-    source: "https://jobs.ashbyhq.com/langfuse/a2c4e24c-21d1-4a9f-8d46-422d0592efd6/",
-    description:
-      "Build product features for an open-source LLM engineering platform focused on tracing, evaluation, prompt management, observability, and self-hosting. Work on useful AI applications, product engineering, data-intensive LLM observability, developer workflows, Docker, and production-quality systems for teams building with language models."
-  },
-  {
-    company: "Komodo Health",
+    company: "Atomicwork",
     title: "Applied AI Engineer",
     dateFound: "May 7, 2026",
-    source: "https://job-boards.greenhouse.io/komodohealth",
+    source: "https://job-boards.greenhouse.io/atomicwork/jobs/5073381008",
     description:
-      "Build AI-native healthcare data products in Komodo Labs. Current openings include Applied AI Engineer and senior applied AI roles focused on AI systems, healthcare data, full-stack AI solutions, model pipelines, agent orchestration, prompt engineering, observability, evaluation frameworks, MLOps, monitoring, CI/CD, and production deployment."
+      "Design, build, evaluate, and deploy intelligent AI systems that power enterprise workflows, autonomous assistants, and machine-assisted task automation. Work on transformer-based models, retrieval-augmented models, summarization, context-aware reasoning, semantic retrieval, agentic task orchestration, conversational assistants, production data pipelines, evaluation pipelines, observability, monitoring, cloud infrastructure, vector search, RAG, multi-agent workflows, testing, Git, and product empathy."
+  },
+  {
+    company: "Scale AI",
+    title: "Applied AI Engineer, Enterprise GenAI",
+    dateFound: "May 7, 2026",
+    source: "https://job-boards.greenhouse.io/scaleai/jobs/4514173005",
+    description:
+      "Work directly with enterprise clients to create ML and generative AI solutions for business needs. Build advanced AI agents with multimodal functionality and tool-calling, translate business requirements into technical solutions, push production code, run data-driven experiments, improve model performance, work with AWS or GCP cloud environments, Python, numpy, pandas, software engineering best practices, and production generative AI applications."
+  },
+  {
+    company: "Labelbox",
+    title: "Full-Stack Engineer, AI Data Platform",
+    dateFound: "May 7, 2026",
+    source: "https://job-boards.greenhouse.io/labelbox/jobs/5019254007",
+    description:
+      "Full-stack AI engineer role building tools for developing, evaluating, and training AI systems. Own features end to end from user-facing experiences and APIs to backend services, data models, and infrastructure. Build human-in-the-loop AI training workflows, RLHF and preference data pipelines, LLM-assisted review tools, AI evaluation frameworks, React interfaces, APIs, backend services, scalable databases, cloud infrastructure, Kubernetes, TypeScript, Node.js, Python, GraphQL, and well-tested code."
   }
 ];
