@@ -15,7 +15,7 @@ This portfolio presents an aspirational but believable professional direction: a
 The portfolio includes the two required featured projects:
 
 - Revised midterm project: Graduate Housing Affordability Lab
-- Assignment 2 job technology project: CLI AI Toolkit
+- Assignment 2 job technology project: Career Fit Analyzer
 
 ## Course Framework Decisions
 
@@ -39,7 +39,7 @@ I used the course design system Tour as the planning path:
 - Build: https://kaw393939.github.io/designsystem/tour/build/
 - Publish: https://kaw393939.github.io/designsystem/tour/publish/
 
-I also researched applied AI and forward-deployed AI roles. The research showed that these roles value practical engineering, user discovery, integration, evaluation, communication, and moving prototypes toward production.
+I also researched applied AI, full-stack AI, and entry-level software engineering roles. The research showed that these roles value practical engineering, AI integration, RAG/vector-search workflows, evaluation, testing, communication, and moving prototypes toward production.
 
 ## AI Use
 
