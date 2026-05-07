@@ -1,34 +1,34 @@
 export const JOB_DESCRIPTIONS = [
   {
-    company: "Guidehouse",
-    title: "AI Engineer (Full-Stack)",
-    date: "April 15, 2026",
-    source: "https://swooped.co/job-postings/ai-engineer-full-stack-remote-guidehouse-10163",
+    company: "Automattic",
+    title: "Applied AI Engineer",
+    dateFound: "May 7, 2026",
+    source: "https://job-boards.greenhouse.io/automatticcareers/jobs/7558576",
     description:
-      "Build, test, and deploy AI applications and services. Implement data and ML pipelines, vector indexes, retrieval-augmented generation, agentic workflows, APIs, microservices, cloud platforms, CI/CD, secrets, observability, prompt orchestration, tool calling, embeddings, and fine-tuning."
+      "Ship user-facing AI features across a large product ecosystem. Build and iterate rapidly on AI-powered products, collaborate with product managers, designers, and engineers, move prototypes toward production, use production LLM APIs, and work across PHP, TypeScript, React, full-stack development, AI-powered user interfaces, and machine learning fundamentals."
   },
   {
-    company: "Perplexity",
-    title: "Full Stack Software Engineer - Applied AI",
-    date: "February 24, 2026",
-    source: "https://www.jobscroller.net/jobs/555398",
-    description:
-      "Build scalable end-to-end AI applications, discovery products, research agents, eval platforms, monetization systems, and third-party LLM integrations. Tech stack includes TypeScript, React, Python, FastAPI, PostgreSQL, Redis, Docker, AWS, vLLM, Go, Rust, and Scala."
-  },
-  {
-    company: "TEKsystems",
+    company: "Vertex Service Partners",
     title: "Full Stack AI Engineer",
-    date: "March 27, 2026",
-    source: "https://www.careercircle.com/jobs/all/all/usa/ga/alpharetta/67a0b304-790f-4b17-b9eb-ebb1adaaf78b",
+    dateFound: "May 7, 2026",
+    source: "https://job-boards.greenhouse.io/vertexservicepartners/jobs/4067788009",
     description:
-      "Develop full-stack features across Angular and Node.js or NestJS. Integrate LLM APIs such as Claude or OpenAI, build AI agent pipelines, prompt chains, RAG systems, streaming and async AI response patterns, clean tested production-quality TypeScript or Python code, AI-powered UX, architecture, and technical documentation."
+      "Design, prototype, and deploy full-stack AI applications using FastAPI, Django, React, and Next.js. Develop chat assistants, retrieval workflows, summarization, workflow automation, OpenAI integrations, LangChain, data systems, APIs, cloud deployments, CI/CD, retrieval-augmented generation, prompt management, vector storage, and model orchestration."
   },
   {
-    company: "Boeing",
-    title: "Entry-Level Software Engineer",
-    date: "April 13, 2026",
-    source: "https://jobs.boeing.com/job/oklahoma-city/entry-level-software-engineer/185/93929137312",
+    company: "Langfuse",
+    title: "Senior Product Engineer",
+    dateFound: "May 7, 2026",
+    source: "https://jobs.ashbyhq.com/langfuse/a2c4e24c-21d1-4a9f-8d46-422d0592efd6/",
     description:
-      "Determine requirements, write tier-three tests, execute tests, design, develop, test, maintain, enhance, and optimize non-embedded software throughout the end-to-end lifecycle. Work with documented requirements, system integration, industry standards, customer standards, safety, and regulation standards."
+      "Build product features for an open-source LLM engineering platform focused on tracing, evaluation, prompt management, observability, and self-hosting. Work on useful AI applications, product engineering, data-intensive LLM observability, developer workflows, Docker, and production-quality systems for teams building with language models."
+  },
+  {
+    company: "Komodo Health",
+    title: "Applied AI Engineer",
+    dateFound: "May 7, 2026",
+    source: "https://job-boards.greenhouse.io/komodohealth",
+    description:
+      "Build AI-native healthcare data products in Komodo Labs. Current openings include Applied AI Engineer and senior applied AI roles focused on AI systems, healthcare data, full-stack AI solutions, model pipelines, agent orchestration, prompt engineering, observability, evaluation frameworks, MLOps, monitoring, CI/CD, and production deployment."
   }
 ];
