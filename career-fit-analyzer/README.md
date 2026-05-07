@@ -10,11 +10,11 @@ Target direction: Applied AI Product Engineer / Full-Stack AI Engineer.
 
 The job descriptions I reviewed repeatedly asked for:
 
-- full-stack engineering with TypeScript, React, Next.js, Python, FastAPI/Django, and APIs
-- LLM integration, prompt management, and user-facing AI product features
-- RAG, embeddings, vector storage, retrieval workflows, summarization, and model orchestration
-- automated testing, evaluation frameworks, reliability, observability, and documentation
-- cloud deployment, CI/CD, Docker/self-hosting, and production-readiness
+- applied AI product engineering with customer/product collaboration, pilots, prototypes, and deployment
+- LLM integration through APIs, prompt engineering, agent development, tool-calling, and retrieval frameworks
+- RAG, semantic retrieval, vector search, retrieval-augmented models, summarization, and context-aware reasoning
+- AI evaluation through evaluation suites, evaluation pipelines, performance benchmarks, monitoring, and observability
+- full-stack AI engineering with React, TypeScript, Node.js, Python, GraphQL/APIs, backend services, databases, and cloud infrastructure
 
 My resume and portfolio already show React, TypeScript, Node.js, D3, OpenAI API/MCP coursework, data storytelling, and AI-assisted product thinking. The main underrepresented areas are RAG/vector-search workflows and evaluation practices for AI systems.
 
@@ -67,10 +67,10 @@ server.mjs                Tiny local static server
 
 ## Job Sources
 
-- Automattic Applied AI Engineer: https://job-boards.greenhouse.io/automatticcareers/jobs/7558576
-- Vertex Service Partners Full Stack AI Engineer: https://job-boards.greenhouse.io/vertexservicepartners/jobs/4067788009
-- Langfuse Senior Product Engineer: https://jobs.ashbyhq.com/langfuse/a2c4e24c-21d1-4a9f-8d46-422d0592efd6/
-- Komodo Health Applied AI Engineer openings: https://job-boards.greenhouse.io/komodohealth
+- Anthropic Applied AI Engineer: https://job-boards.greenhouse.io/anthropic/jobs/5055488008
+- Atomicwork Applied AI Engineer: https://job-boards.greenhouse.io/atomicwork/jobs/5073381008
+- Scale AI Applied AI Engineer, Enterprise GenAI: https://job-boards.greenhouse.io/scaleai/jobs/4514173005
+- Labelbox Full-Stack Engineer, AI Data Platform: https://job-boards.greenhouse.io/labelbox/jobs/5019254007
 
 ## AI Use
 

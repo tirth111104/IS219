@@ -6,19 +6,19 @@ Target direction: Applied AI Product Engineer / Full-Stack AI Engineer.
 
 | Role | Company | Date Found | Source |
 | --- | --- | --- | --- |
-| Applied AI Engineer | Automattic | May 7, 2026 | https://job-boards.greenhouse.io/automatticcareers/jobs/7558576 |
-| Full Stack AI Engineer | Vertex Service Partners | May 7, 2026 | https://job-boards.greenhouse.io/vertexservicepartners/jobs/4067788009 |
-| Senior Product Engineer | Langfuse | May 7, 2026 | https://jobs.ashbyhq.com/langfuse/a2c4e24c-21d1-4a9f-8d46-422d0592efd6/ |
-| Applied AI Engineer | Komodo Health | May 7, 2026 | https://job-boards.greenhouse.io/komodohealth |
+| Applied AI Engineer | Anthropic | May 7, 2026 | https://job-boards.greenhouse.io/anthropic/jobs/5055488008 |
+| Applied AI Engineer | Atomicwork | May 7, 2026 | https://job-boards.greenhouse.io/atomicwork/jobs/5073381008 |
+| Applied AI Engineer, Enterprise GenAI | Scale AI | May 7, 2026 | https://job-boards.greenhouse.io/scaleai/jobs/4514173005 |
+| Full-Stack Engineer, AI Data Platform | Labelbox | May 7, 2026 | https://job-boards.greenhouse.io/labelbox/jobs/5019254007 |
 
 ## Repeated Skill Signals
 
-- Full-stack engineering with TypeScript, React, Next.js, Python, FastAPI/Django, and APIs.
-- LLM API integration, prompt management, AI-powered user interfaces, and product features.
-- RAG, retrieval workflows, embeddings, vector storage, summarization, and model orchestration.
-- Automated testing, evaluation frameworks, reliability, observability, and documentation.
-- Cloud deployment, CI/CD, Docker/self-hosting, monitoring, and production-readiness.
-- Product collaboration, prototyping, user-facing features, and explaining tradeoffs clearly.
+- Applied AI product engineering: customer/product collaboration, pilots, prototypes, and production deployment.
+- LLM implementation: API integrations, prompt engineering, agent development, tool-calling, and retrieval frameworks.
+- RAG and retrieval systems: semantic retrieval, vector search, retrieval-augmented models, and context-aware reasoning.
+- AI evaluation: evaluation suites, evaluation pipelines, performance benchmarks, model monitoring, and observability.
+- Full-stack AI engineering: React, TypeScript, Node.js, Python, GraphQL/APIs, backend services, databases, and cloud infrastructure.
+- Production quality: tested code, version control, architecture discussions, deployment, reliability, and documentation.
 
 ## Resume Strengths
 
