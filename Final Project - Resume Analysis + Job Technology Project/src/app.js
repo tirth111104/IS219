@@ -17,7 +17,7 @@ function renderJobs() {
         <div>
           <p class="kicker">${job.company}</p>
           <h3>${job.title}</h3>
-          <p>${job.date}</p>
+          <p>Found ${job.dateFound}</p>
         </div>
         <a href="${job.source}" target="_blank" rel="noreferrer">Source</a>
       </article>
