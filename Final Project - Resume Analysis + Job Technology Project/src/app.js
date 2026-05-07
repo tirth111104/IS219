@@ -1,4 +1,4 @@
-import { JOB_DESCRIPTIONS } from "../data/jobDescriptions.js";
+import { JOB_DESCRIPTIONS } from "../data/jobDescriptions.js?v=specific-jobs-20260507";
 import { RESUME_PROFILE, analyzeGap, recommendProjectFocus } from "./analyzer.js";
 
 const resumeInput = document.querySelector("#resume-input");
