@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Career Fit Analyzer by Tirth Patel: a resume and job description gap-analysis project for applied AI product engineering."
+    />
+    <title>Career Fit Analyzer | Tirth Patel</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="app-shell">
+      <div>
+        <p class="kicker">Resume Analysis + Job Technology Project</p>
+        <h1>Career Fit Analyzer</h1>
+        <p>
+          A focused tool for comparing my current resume direction against real AI and software
+          engineering job descriptions, then turning the gaps into a credible learning project.
+        </p>
+      </div>
+      <div class="identity-panel" aria-label="Target role">
+        <span>Target role</span>
+        <strong>Applied AI Product Engineer</strong>
+        <a href="https://www.linkedin.com/in/tirth-patel-6b893b291/" target="_blank" rel="noreferrer">LinkedIn</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="workspace" aria-label="Analyzer workspace">
+        <div class="input-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="kicker">Resume signals</p>
+              <h2>Current evidence</h2>
+            </div>
+            <button id="analyze-button" type="button">Analyze</button>
+          </div>
+          <textarea id="resume-input" aria-label="Resume skill evidence"></textarea>
+          <p class="helper">
+            This text summarizes the updated resume and portfolio direction. It can be replaced
+            with a pasted resume excerpt during the presentation.
+          </p>
+        </div>
+
+        <aside class="jobs-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="kicker">Real job research</p>
+              <h2>Roles reviewed</h2>
+            </div>
+          </div>
+          <div id="job-list" class="job-list"></div>
+        </aside>
+      </section>
+
+      <section class="results-grid" aria-label="Analysis results">
+        <div class="result-summary" id="summary"></div>
+        <div class="focus-panel">
+          <p class="kicker">Project choice</p>
+          <h2>Best skills to develop next</h2>
+          <div id="focus-list" class="focus-list"></div>
+        </div>
+      </section>
+
+      <section class="table-section" aria-label="Skill gap table">
+        <div class="panel-heading">
+          <div>
+            <p class="kicker">Skill gap map</p>
+            <h2>What employers asked for vs. what my resume proves</h2>
+          </div>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Skill</th>
+                <th>Job Demand</th>
+                <th>Resume Mentions</th>
+                <th>Gap</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody id="analysis-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="explanation">
+        <article>
+          <p class="kicker">Why this project</p>
+          <h2>Small, relevant, and explainable</h2>
+          <p>
+            The researched roles repeatedly asked for tested AI-enabled applications, RAG/vector
+            workflows, API integration, product collaboration, and deployment judgment. This demo
+            gives me a concrete way to discuss those expectations while showing a working,
+            tested analyzer instead of only describing the gap.
+          </p>
+        </article>
+        <article>
+          <p class="kicker">Testing</p>
+          <h2>Professional care</h2>
+          <p>
+            The core scoring functions are separated from the browser UI and covered by automated
+            Node tests. That keeps the most important behavior inspectable and repeatable.
+          </p>
+        </article>
+      </section>
+    </main>
+
+    <script type="module" src="src/app.js"></script>
+  </body>
+</html>
