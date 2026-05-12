@@ -22,16 +22,19 @@ Target direction: Applied AI Product Engineer / Full-Stack AI Engineer.
 
 ## Resume Strengths
 
-- React, TypeScript, Node.js, Vite, D3, and GitHub Pages.
-- AI-assisted workflow experience through chatbot, MCP, and OpenAI API coursework.
-- Data storytelling, calculator logic, and documented project framing.
-- Portfolio positioning around applied AI product engineering.
+- Programming breadth across Python, Java, C++, C#, Rust, JavaScript, TypeScript, SQL, Bash, and other languages.
+- AI systems experience through LLMs, RAG, OpenAI API, LangChain, vector search, AI agents, multi-agent systems, and MCP tools.
+- Systems foundation through embedded C++ firmware, telemetry infrastructure, Linux, REST APIs, CI/CD, multithreading, and parallel computing.
+- Data and ML foundation through Scikit-learn, PyTorch, TensorFlow, feature engineering, EDA, data pipelines, ETL, Spark, Databricks, and Azure ML.
+- Product-adjacent language through user-centered design, workflow optimization, technical communication, cross-functional collaboration, and decision-support systems.
 
 ## Missing or Underrepresented Skills
 
-The strongest gaps are:
+The strongest gaps are no longer broad keyword gaps. The resume already includes many target-role keywords. The remaining gaps are proof-depth gaps:
 
-1. RAG / vector-search workflows.
-2. Evaluation and production-style reliability for AI features.
+1. Production-style evaluation: concrete eval cases, scoring criteria, regression checks, and measurable before/after results.
+2. Observability and reliability: monitoring, failure handling, latency/cost awareness, and deployment tradeoffs.
+3. Applied product context: clearer user, workflow, decision, and outcome for each AI project.
+4. Evidence balance: prioritize the tools that are actually proven by projects instead of relying on a long skills list.
 
-This project was chosen because it starts addressing those gaps in a small, honest way: it uses real job descriptions as source material, separates analysis logic from the UI, and includes automated tests for the scoring behavior.
+This project was chosen because it turns the resume/job comparison into a working artifact. It uses real job descriptions as source material, separates analysis logic from the UI, and includes automated tests for the scoring behavior.
