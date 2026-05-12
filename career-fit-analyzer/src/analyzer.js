@@ -33,13 +33,13 @@ export const SKILL_CATALOG = [
     id: "evaluation",
     label: "Evaluation / Testing",
     category: "Quality",
-    aliases: ["evaluation", "eval", "testing", "regression", "metrics", "a/b testing", "automated testing"]
+    aliases: ["evaluation", "eval", "testing", "regression", "metrics", "a/b testing", "automated testing", "automated evaluation"]
   },
   {
     id: "cloud",
     label: "Cloud / Deployment",
     category: "Infrastructure",
-    aliases: ["aws", "azure", "gcp", "cloud", "docker", "kubernetes", "ci/cd", "deployment", "observability"]
+    aliases: ["aws", "azure", "gcp", "cloud", "cloud ai", "docker", "kubernetes", "ci/cd", "deployment", "observability", "monitoring"]
   },
   {
     id: "data",
@@ -51,7 +51,7 @@ export const SKILL_CATALOG = [
     id: "product",
     label: "Product Collaboration",
     category: "Product",
-    aliases: ["product", "design", "stakeholder", "customer", "prototype", "poc", "mvp", "user"]
+    aliases: ["product", "design", "stakeholder", "customer", "prototype", "poc", "mvp", "user", "user-centered", "workflow optimization", "technical communication", "decision support"]
   }
 ];
 
@@ -59,12 +59,12 @@ export const RESUME_PROFILE = {
   name: "Tirth Patel",
   targetRole: "Applied AI Product Engineer",
   evidence:
-    "React TypeScript Node.js OpenAI API MCP D3 Vite GitHub Pages data storytelling chatbot calculator documented data pipeline portfolio case studies product judgment AI workflow critique",
+    "Python Java C++ C# Rust JavaScript TypeScript Go Kotlin Swift SQL Bash data structures algorithms Linux Git REST APIs distributed systems CI/CD multithreading parallel computing API-driven systems front-end development back-end development full-stack development machine learning deep learning neural networks generative AI large language models LLMs NLP predictive modeling feature engineering EDA PyTorch TensorFlow Scikit-learn LangChain React prompt engineering RAG OpenAI API vector databases vector search AI agents multi-agent systems MCP tools data pipelines ETL Apache Spark Databricks Docker Kubernetes Cloud AI automated evaluation workflows user-centered design workflow optimization technical communication cross-functional collaboration decision support systems Jupyter Notebook Google Colab GitHub VS Code Azure ML Airflow Nexus Battery Solutions embedded C++ firmware telemetry infrastructure battery management system real-time monitoring remote tuning ML-driven optimization operational decision support student IT assistant troubleshooting system reliability Career Fit Analyzer JavaScript Node.js automated testing resume job matching AI chatbot OpenAI API LangChain RAG vector search MCP tools REST API Spec-Driven Agentic Orchestration controller-worker architecture Parallel Processor pthread C++ multithreading",
   strengths: [
-    "React and TypeScript interfaces",
-    "AI-assisted product workflow",
-    "Data storytelling and visualization",
-    "Clear documentation and presentation framing"
+    "Broad programming foundation across Python, C++, JavaScript, TypeScript, SQL, Bash, and systems coursework",
+    "Applied AI coursework and projects using LLMs, RAG, OpenAI API, LangChain, vector search, AI agents, and MCP tools",
+    "Systems experience through embedded C++ firmware, telemetry architecture, Linux, multithreading, and parallel computing",
+    "Product-adjacent communication through decision-support tools, troubleshooting workflows, and technical documentation"
   ]
 };
 
@@ -155,14 +155,14 @@ function recommendAction(id, gapLevel) {
   if (gapLevel === "Covered") return "Keep this visible with concise project evidence.";
 
   const actions = {
-    rag: "Build a small retrieval workflow: ingest documents, rank relevant snippets, and explain the evidence used.",
-    llm: "Add a reliable LLM-facing interface with prompt controls, transparent assumptions, and fallback behavior.",
-    evaluation: "Write automated tests and simple evaluation cases that prove the system handles realistic inputs.",
-    cloud: "Document deployment steps and add environment-based configuration for production readiness.",
-    python: "Add a Python service or notebook only if the project truly needs ML/data processing.",
-    data: "Show a clear data pipeline from source material to normalized analysis output.",
+    rag: "Turn existing RAG experience into measurable proof: retrieval examples, source-grounded outputs, and relevance checks.",
+    llm: "Show LLM implementation quality through prompt controls, failure cases, and clear assumptions.",
+    evaluation: "Add concrete eval cases, scoring criteria, and regression checks that prove AI behavior improves over time.",
+    cloud: "Show production readiness with deployment notes, environment configuration, monitoring, and reliability tradeoffs.",
+    python: "Connect Python ML work to an application workflow or service boundary.",
+    data: "Show a clear pipeline from raw inputs to normalized analysis outputs and explain quality checks.",
     api: "Expose the core analyzer through a small API or modular function boundary.",
-    product: "Frame the project around a reviewer, user problem, and decision it helps make.",
+    product: "Frame each project around a specific user, decision, workflow, and measurable outcome.",
     typescript: "Keep the UI and analysis logic cleanly separated so the engineering work is easy to inspect."
   };
 

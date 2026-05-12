@@ -16,7 +16,7 @@ The job descriptions I reviewed repeatedly asked for:
 - AI evaluation through evaluation suites, evaluation pipelines, performance benchmarks, monitoring, and observability
 - full-stack AI engineering with React, TypeScript, Node.js, Python, GraphQL/APIs, backend services, databases, and cloud infrastructure
 
-My resume and portfolio already show React, TypeScript, Node.js, D3, OpenAI API/MCP coursework, data storytelling, and AI-assisted product thinking. The main underrepresented areas are RAG/vector-search workflows and evaluation practices for AI systems.
+My resume already shows strong alignment with the target direction: Python, JavaScript/TypeScript, REST APIs, LLMs, RAG, OpenAI API, LangChain, vector search, MCP tools, AI agents, multi-agent systems, embedded C++ firmware, telemetry infrastructure, Docker, Kubernetes, and automated evaluation workflows. The main underrepresented areas are not broad keyword gaps anymore. The stronger next proof areas are production evaluation depth, observability/reliability, deployment tradeoffs, and clearer applied product outcomes.
 
 This project was chosen because it is realistic, relevant, and explainable in a five-minute presentation.
 
