@@ -2,7 +2,7 @@
 
 Career Fit Analyzer is a small professional demo project for the Resume Analysis + Job Technology final. It compares my current resume direction with real job descriptions for applied AI and software engineering roles, then identifies the skills I should develop next.
 
-Hosted demo: https://tp364.github.io/IS219/career-fit-analyzer/
+Hosted demo: https://tirth111104.github.io/IS219/career-fit-analyzer/
 
 Target direction: Applied AI Product Engineer / Full-Stack AI Engineer.
 
