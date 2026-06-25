@@ -1,10 +1,10 @@
 # Tirth Patel - Final Professional Portfolio
 
-Hosted site: https://tp364.github.io/IS219/portfolio/
+Hosted site: https://tirth111104.github.io/IS219/portfolio/
 
-Repository: https://github.com/tp364/IS219/tree/main/Final%20Project%20-%20Individual%20Portfolio%20Part%201
+Repository: https://github.com/tirth111104/IS219/tree/main/Final%20Project%20-%20Individual%20Portfolio%20Part%201
 
-GitHub profile: https://github.com/tp364
+GitHub profile: https://github.com/tirth111104
 
 LinkedIn profile: https://www.linkedin.com/in/tirth-patel-6b893b291/
 
