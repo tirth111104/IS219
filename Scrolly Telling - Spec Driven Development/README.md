@@ -4,10 +4,10 @@ This repo is a **scrollytelling + spec-driven development** redesign of my housi
 
 ## Live Site
 
-- Homepage: [https://tp364.github.io/IS219/](https://tp364.github.io/IS219/)
-- Why this project matters: [https://tp364.github.io/IS219/why-this-project.html](https://tp364.github.io/IS219/why-this-project.html)
-- How the data and tool work: [https://tp364.github.io/IS219/how-it-works.html](https://tp364.github.io/IS219/how-it-works.html)
-- How spec-driven development helped: [https://tp364.github.io/IS219/spec-driven-process.html](https://tp364.github.io/IS219/spec-driven-process.html)
+- Homepage: [https://tirth111104.github.io/IS219/](https://tirth111104.github.io/IS219/)
+- Why this project matters: [https://tirth111104.github.io/IS219/why-this-project.html](https://tp364.github.io/IS219/why-this-project.html)
+- How the data and tool work: [https://tirth111104.github.io/IS219/how-it-works.html](https://tp364.github.io/IS219/how-it-works.html)
+- How spec-driven development helped: [https://tirth111104.github.io/IS219/spec-driven-process.html](https://tp364.github.io/IS219/spec-driven-process.html)
 
 ## Assignment Focus
 
